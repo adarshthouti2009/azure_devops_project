@@ -5,7 +5,7 @@
 ![Project Architecture](Architecture.jpg)
 
 ## Overview
-This project implements a real-time, scalable, and structured data pipeline using Azure Databricks, PySpark, and Delta Live Tables (DLT) to process and analyze Olympic dataset entities such as athletes, coaches, events, and NOCs. The architecture follows a Medallion design pattern (Bronze, Silver, Gold) to manage raw, cleansed, and business-level aggregated data respectively.
+This project implements a real-time, scalable, and structured data pipeline using Azure DevOps, Azure Databricks, PySpark, and Delta Live Tables (DLT) to process and analyze Olympic dataset entities such as athletes, coaches, events, and NOCs. The architecture follows a Medallion design pattern (Bronze, Silver, Gold) to manage raw, cleansed, and business-level aggregated data respectively.
 
 ## Medallion Architecture
 
